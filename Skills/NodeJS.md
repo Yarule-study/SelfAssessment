@@ -1,18 +1,18 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js 🎓 known
+  - Stateful and stateless servers 👂 heard
+  - Nonblocking I/O and slocking code 👂 heard
+  - Event loop: phases 👂 heard
+  - Event loop: microtasks and macr otasks 👂 heard
+  - Garbage collection 👂 heard
+  - Node.js LTS schedule 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
+  - Interactive applications (close to real-time) 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules 👂 heard
+  - ECMAScript modules 👂 heard
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
@@ -66,8 +66,8 @@
   - Separation of concerns
   - Inversion of control
   - Dependency injection
-  - GRASP
-  - SOLID
+  - GRASP 👂 heard
+  - SOLID 👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,23 +86,23 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
-  - SSE
-  - HTTP/3 (QUIC)
-  - Long polling
+  - HTTP(S) 🎓 known
+  - TCP/SSL 🎓 known
+  - UDP 🎓 known
+  - TLS 🎓 known
+  - Websocket 🎓 known
+  - SSE 🎓 known
+  - HTTP/3 (QUIC) 🎓 known
+  - Long polling 🎓 known
   - REST
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing 🎓 known
+  - DoS 🎓 known
+  - DDoS 🎓 known
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 🎓 known 
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -113,30 +113,30 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Native test runner 👂 heard
+  - Logging 👂 heard
+  - Application configuring 👂 heard
+  - Testing 👂 heard
+  - CI/CD 👂 heard
+  - Readable 👂 heard
+  - Writable 👂 heard
   - Transform
   - back pressure
-  - Buffer
-  - Console
-  - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Buffer 👂 heard
+  - Console 👂 heard
+  - Inspector 👂 heard
+  - Reliability 👂 heard
+  - Quality 👂 heard
+  - Availability 👂 heard
+  - Flexibility 👂 heard
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Data access layer 👂 heard
+  - Repository 👂 heard
+  - Active record 👂 heard
+  - Query builder 👂 heard
+  - Object-Relational Mapping 👂 heard
 - Error handling and debugging
-  - Error
+  - Error 👂 heard
   - error.cause
   - error.code
   - error.message
